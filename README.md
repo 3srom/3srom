@@ -2,5 +2,5 @@ Hi, I am Esrom and I can do anything.
 
 I know: Python and HTML
 
-contant:
+Contant:
 Discord: @0x3srom
